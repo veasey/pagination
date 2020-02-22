@@ -1,5 +1,5 @@
 {
-  "name": "Paginator",
+  "name": "veasey/paginator",
   "description": "A PHP pagination library",
   "keywords": [
     "pagination"
