@@ -1,4 +1,19 @@
 {
+  "name": "Paginator",
+  "description": "A PHP pagination library",
+  "keywords": [
+    "pagination"
+  ],
+  "homepage": "https://github.com/veasey/paginator",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Clint Veasey",
+      "email": "clintvee@gmail.com",
+      "homepage": "http://clintveasey.co.uk",
+      "role": "Developer"
+    }
+  ],
   "require": {
     "php": "^7.1.0"
   },
